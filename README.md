@@ -30,12 +30,15 @@ The following **additional** features are implemented:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+DEMO video: https://www.youtube.com/watch?v=A5TnikJb7gQ
 
 ## Notes
 
 Describe any challenges encountered while building the app.
-
+1. Getting the constraints to work for the labels and buttons were challenging. 
+-I decided to apply constraints to individual labels. I used stack constraints for the buttons for easier styling
+2. I couldn't get the buttons to work at the beginning because I didn't connect them properly to the viewcontroller.
+-I had to use the connection inspector to connect them properly
 ## License
 
     Copyright [yyyy] [name of copyright owner]
